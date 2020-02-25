@@ -1,7 +1,3 @@
-// CS 0445 Spring 2020
-// This will allow exponentially distributed values to be
-// generated.  To see how it is used also see handout RandTest.java
-
 import java.util.Random;
 import java.lang.Math;
 
