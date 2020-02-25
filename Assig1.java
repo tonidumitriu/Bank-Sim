@@ -1,9 +1,3 @@
-// CS 0445 Spring 2020
-// Assignment 1 Main Program
-// Your SimBank class must run with this program as is, with no alterations.
-// For more information on the particulars of the SimBank requirements, see
-// comments below and also see the Assignment 1 specifications.
-
 import java.util.*;
 
 public class Assig1
