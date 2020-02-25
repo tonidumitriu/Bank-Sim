@@ -1,12 +1,3 @@
-// CS 0445 Spring 2020
-// Simple demonstration of using a class to generate
-// exponentially distributed arrivals.  Also demonstrates
-// seeding a generator to reproduce a consistent set of
-// pseudo-random values.
-
-// You will use this distribution to generate arrivals
-// for Assignment 1.
-
 import java.util.*;
 public class RandTest
 {
