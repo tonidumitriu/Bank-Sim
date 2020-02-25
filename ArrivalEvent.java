@@ -1,9 +1,3 @@
-// CS 0445 Spring 2020
-// Simply a subclass with a constructor, and toString(), but no other
-// methods.
-
-// This subclass is simply to distinguish it from other event types.
-
 public class ArrivalEvent extends SimEvent
 {
     public ArrivalEvent(double new_time)
