@@ -1,11 +1,3 @@
-// CS 0445 Spring 2020
-
-// Simple class to represent a customer.  Its main purpose is to store all
-// of the data associated with each customer during the simulation.  Note the
-// accessors and mutators for the various fields of the class.
-
-// You must use this class as is to represent a Customer in Assignment 1
-
 public class Customer
 {
     private int id;
