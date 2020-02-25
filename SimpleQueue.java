@@ -1,4 +1,3 @@
-// CS 0445 Spring 2020
 // SimpleQueue<T> interface
 
 public interface SimpleQueue<T>
