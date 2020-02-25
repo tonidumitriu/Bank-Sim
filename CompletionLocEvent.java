@@ -1,12 +1,3 @@
-// CS 0445 Spring 2020
-// This subclass of CompletionEvent allows the event to store
-// an index -- which will correspond to the teller in which
-// the event occurs.  You will use this for Assignment 1.  The
-// idea is that a CompletionLocEvent will be generated for each
-// customer when the customer is "waited on" at a specific Teller.
-// When the CompletionLocEvent occurs we can use the getLoc()
-// method to determine which Teller should be freed.
-
 public class CompletionLocEvent extends CompletionEvent
 {
     private int location;
