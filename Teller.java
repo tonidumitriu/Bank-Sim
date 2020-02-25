@@ -1,7 +1,5 @@
-// CS 0445 Spring 2020
-
 // Simple class to represent the teller.  It simply stores the current
-// customer and a busy flag.  You must use this class as is in Assignment 1.
+// customer and a busy flag.  
 
 public class Teller
 {
